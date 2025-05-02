@@ -11,7 +11,7 @@ The Simple HTTP Request Spoofer is a Python script that allows you to send HTTP 
 - Optionally save full response content to a file  
 
 ## Usage
-1. Ensure you have Python 3 installed.  
+1. Ensure you have Python installed.  
 2. Install the required `requests` library if not already installed:
 3. Run the script
 4. Follow on-screen prompts to enter the URL and custom headers.  
